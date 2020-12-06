@@ -2,7 +2,7 @@
 
 
 
-![Alt text](./GPS_logger_Steckplatine.png?raw=true "Title")
+![Alt text](./wiring.png?raw=true "Title")
 
 
 ## Usage
