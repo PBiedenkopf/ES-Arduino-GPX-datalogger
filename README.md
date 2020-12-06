@@ -9,8 +9,8 @@ button which is indicated with the LED turning on. To stop recording just press 
 ## Hardware
 ![Alt text](./wiring.png?raw=true "Title")
 
-Hint: Button1 (Pin 5) is used for thart logging. Button2 (Pin 7) will be used to mark special 
-points of interests as waypoints on the current track (not implemented yet).
+Hint: Button1 (Pin 5) is used to start logging. Button2 (Pin 7) will be used to mark special 
+points of interest as waypoints on the current track (not implemented yet).
 
 The following hardware was used in this project:
 - [Arduino Nano](https://www.amazon.de/gp/product/B078SBBST6/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
